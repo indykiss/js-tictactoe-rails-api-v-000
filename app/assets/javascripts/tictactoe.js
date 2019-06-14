@@ -15,8 +15,6 @@ function player() {
   }
 }
 
-
-
 function updateState (square) {
   $(square).text(player());
 }
