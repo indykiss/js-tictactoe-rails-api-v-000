@@ -47,7 +47,6 @@ function clearBoard() {
   currentGame = 0;
 }
 
-
 function doTurn(square) {
   updateState(square);
   turn++;
