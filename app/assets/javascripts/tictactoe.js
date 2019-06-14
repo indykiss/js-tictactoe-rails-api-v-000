@@ -34,7 +34,6 @@ function checkWinner() {
       return won = true;
     }
   });
-
   return won;
 }
 
